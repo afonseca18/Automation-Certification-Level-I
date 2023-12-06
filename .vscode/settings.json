@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/alexandre.d.fonseca/Documents/Development/Automation-Certification-Level-I/my-rsb-robot/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
